@@ -1,2 +1,2 @@
-# splunk
-Useful Splunk Scripts
+# Install on Windows
+Use the Powershell installer, and it must be ran as administrator or it will fail. It will wait for you to copy the local splunk admin password. Keep this in a safe place, it may be needed in the future. You'll also need to replace <your_deployment_server> with the URL of your deployment server on line 19. I'll try to keep this updated with the latest version of the forwarder as they come out. 
